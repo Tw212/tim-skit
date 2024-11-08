@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\tim-skit\bin\Debug\net8.0\tim-skit.exe
+C:\Users\Admin\Documents\GitHub\tim-skit\bin\Debug\net8.0\tim-skit.deps.json
+C:\Users\Admin\Documents\GitHub\tim-skit\bin\Debug\net8.0\tim-skit.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\tim-skit\bin\Debug\net8.0\tim-skit.dll
+C:\Users\Admin\Documents\GitHub\tim-skit\bin\Debug\net8.0\tim-skit.pdb
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.dll
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\refint\tim-skit.dll
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.pdb
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\ref\tim-skit.dll
