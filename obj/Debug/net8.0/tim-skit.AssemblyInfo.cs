@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tim-skit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee34f85d126dc730bd5b6e119e86b90e63287630")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9fa638c1866780e736e225cfb85dbdc9a6b3eb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("tim-skit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tim-skit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

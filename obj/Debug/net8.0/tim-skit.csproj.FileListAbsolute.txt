@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\refint\tim-skit.dll
 C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.pdb
 C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\ref\tim-skit.dll
+C:\Users\Admin\Documents\GitHub\tim-skit\obj\Debug\net8.0\tim-skit.sourcelink.json
