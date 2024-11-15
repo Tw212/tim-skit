@@ -3,7 +3,7 @@
 using System.Security.Cryptography.X509Certificates;
 using System.Xml;
 using tim_skit;
-
+main();
 static void main(){
 Bil p = new Bil("volvo", "2007", "2.4");
 
